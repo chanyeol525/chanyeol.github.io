@@ -1,2 +1,2 @@
-# chanyeol.github.io
+# chanyeol525.github.io
 yangjingxiu 个人博客
