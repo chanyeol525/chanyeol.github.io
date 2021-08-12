@@ -23,11 +23,14 @@
  2019.09 微信小程序 VISTNUAA 
  
  二维码 ![二维码](https://github.com/chanyeol525/chanyeol525.github.io/raw/master/docs/VISITNUAA.jpg)
+ 
   源代码 [下载](https://github.com/chanyeol525/chanyeol525.github.io/raw/master/docs/visitNNU.zip)
 
   2018.06 基于人脸识别的加密文本APP
+  
   源代码 [下载](https://github.com/chanyeol525/chanyeol525.github.io/raw/master/docs/app%E6%9C%80%E7%BB%88%E7%89%88.zip)
 
+  其他可见github主页
 
 ### 联系方式
 电话号码：17626014069
