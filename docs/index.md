@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Jingxiu Yang Pages
 
-You can use the [editor on GitHub](https://github.com/chanyeol525/chanyeol525.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+主页里存放了个人发表的论文，和项目相关的代码或图片
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###  论文
 
-### Markdown
+2019.09 Liang Liu, Jingxiu Yang, Weizhi Meng, Detecting malicious nodes via gradient descent and support vector machine in Internet of Things, Computers & Electrical Engineering
+Volume 77, Pages 339-353
+link: (https://linkinghub.elsevier.com/retrieve/pii/S004579061930254X)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2020.05 Jingxiu Yang, Lu Zhou, Liang Liu and Zuchao Ma, ORMD: Online learning real-time malicious node detection for the IoT network, wasa2021
+link: (http://wasa-conference.org/WASA2021/program.html)
 
-```markdown
-Syntax highlighted code block
+2018.08 蒋金刚,杨景秀 基于人脸识别的Android手机隐私文本加密软件设计  网络安全技术与应用
+(https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=WLAQ201808024&v=gCvOplP%25mmd2FJqFr2dHjEc7n6097bf9nH6Asa2th4RN8GaOeh%25mmd2FgLS8vw3em7zAPq9fzV)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### 项目
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chanyeol525/chanyeol525.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 联系方式
+电话号码： 17626014069
+邮箱：1553038243@qq.com
